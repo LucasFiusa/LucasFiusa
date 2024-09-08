@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Tenho 17 anos;<br>🤩 Sou apaixonado em jogos, tecnologia e esportes, principalmente futebol;<br>💪Aspirante a Desenvolvedor Web.</p>
+<p align="left">✨ Tenho 17 anos;<br>🤩 Sou apaixonado em jogos, tecnologia e esportes, principalmente futebol;<br>💪 Aspirante a Desenvolvedor Web.</p>
 
 ###
 
