@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estou cursando Desenvolvimento Web no programa BIT da L'Oréal.</p>
+<p align="left">Estou cursando Desenvolvimento Web no programa BIT da L'Oréal Groupe.</p>
 
 ###
 
