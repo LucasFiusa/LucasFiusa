@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estou cursando Desenvolvimento Web no programa BIT da L'Oréal Groupe.</p>
+<p align="left">Estou cursando Desenvolvimento Web no programa BIT (Beleza Inclusiva Tecnológica), uma iniciativa inovadora patrocinada pela L'Oréal Groupe e conduzida pelo Vai na Web.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Tenho 17 anos;<br>🤩 Sou apaixonado em jogos, tecnologia e esportes, principalmente futebol;<br>💪 Aspirante a Desenvolvedor Web.</p>
+<p align="left">✨ Tenho 17 anos;<br>🤩 Sou apaixonado em jogos, tecnologia e esportes, principalmente futebol;<br>💪 Aspirante a Desenvolvedor Full Stack.</p>
 
 ###
 
