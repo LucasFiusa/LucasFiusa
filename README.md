@@ -2,7 +2,8 @@
 
 ###
 
-<h4 align="left">Eu sou o Lucas, tenho 18 anos e sou aspirante a Desenvolvedor Full Stack.<br>Atualmente estou cursando Desenvolvimento Web no programa BIT (Beleza Inclusiva Tecnológica), uma iniciativa inovadora patrocinada pela L'Oréal Groupe e conduzida pelo Vai na Web.</h4>
+<h4 align="left">Eu sou o Lucas, tenho 19 anos e sou aspirante a Desenvolvedor Full Stack.
+Atualmente sou monitor no programa BIT (Beleza Inclusiva Tecnológica), iniciativa patrocinada pela L'Oréal Groupe e conduzida pelo Vai na Web, onde apoio alunos em sua jornada no desenvolvimento web.</h4>
 
 ###
 
